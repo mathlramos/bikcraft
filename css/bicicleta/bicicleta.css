@@ -36,6 +36,7 @@
   align-items: center;
   justify-items: start;
   gap: 8px 12px;
+  margin-bottom: 40px;
 }
 
 .bicicleta-comprar a {
@@ -46,12 +47,12 @@
   display: flex;
   align-items: center;
   background-color: var(--cor-12);
+  gap: 8px;
   padding: 4px 8px;
   border-radius: 4px;
-  gap: 8px;
 }
 
-.bicicleta-comprar h2 {
+.bicicleta-conteudo h2 {
   text-transform: uppercase;
   letter-spacing: 0.015em;
   margin-bottom: 12px;
@@ -72,7 +73,7 @@
 }
 
 .bicicleta-informacoes img {
-  max-width: 24px;
+  width: 24px;
   margin-bottom: 8px;
 }
 
